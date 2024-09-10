@@ -10,7 +10,7 @@ Weather App is a Flutter-based mobile application that provides real-time weathe
 <img src="lib/images/screenshots/weather_main_screen.png" alt="Main Screen" height="400">
 
 ### Weather Example
-<img src="lib/images/screenshots/weather_example.png" alt="Checkmate Screenshot" height="400">
+<img src="lib/images/screenshots/weather_example.png" alt="Weather Example" height="400">
 
 
 ## Features
